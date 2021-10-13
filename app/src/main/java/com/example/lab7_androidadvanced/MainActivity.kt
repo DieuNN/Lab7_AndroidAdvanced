@@ -9,6 +9,9 @@ import com.example.lab7_androidadvanced.activity.Bai3
 import com.example.lab7_androidadvanced.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+
+    //MSSV: PH15766
+    // Họ tên: Nông Ngọc Diệu
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
